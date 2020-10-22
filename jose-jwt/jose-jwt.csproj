@@ -8,12 +8,13 @@
     <Company>dvsekhvalnov</Company>
     <Product>jose-jwt</Product>
     <Copyright>dvsekhvalnov</Copyright>
-    <VersionPrefix>2.4.0</VersionPrefix>
-    <FileVersion>2.4.0.0</FileVersion>
-    <VersionSuffix>streevafork</VersionSuffix>
-    <PackageDescription>This package is a (temporary) fork of jose-jwt</PackageDescription>
-    <RepositoryUrl>https://github.com/streeva/streeva-core</RepositoryUrl>
-    <AssemblyName>jose-jwt-streevafork</AssemblyName>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <FileVersion>1.0.0.0</FileVersion>
+    <VersionSuffix>ron</VersionSuffix>
+    <PackageDescription>This package is a (temporary) fork of jose-jwt to allow usage on Linux</PackageDescription>
+    <RepositoryUrl>https://github.com/ronnypmuliawan/jose-jwt</RepositoryUrl>
+    <AssemblyName>jose-jwt-ron</AssemblyName>
+    <PackageId>jose-jwt-ron</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
